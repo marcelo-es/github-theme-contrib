@@ -27,10 +27,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@primer/primitives@^7.11.14":
-  version "7.11.14"
-  resolved "https://registry.yarnpkg.com/@primer/primitives/-/primitives-7.11.14.tgz#aacf0516dc891448dc8fbe87e349272375cf6b36"
-  integrity sha512-z/yUTEkbGhvFqoJ8rpLz3pHJfLNRdoyNd/xNdAl/LKqA97Z60tsSVJMfxNMXi3aS9dCIC1dexK5/Gp4y9JrRkg==
+"@primer/primitives@^7.12.0":
+  version "7.12.0"
+  resolved "https://registry.yarnpkg.com/@primer/primitives/-/primitives-7.12.0.tgz#82634bba41f465bc194cdf0ca6d5ed400f3f2c0d"
+  integrity sha512-QKNxfWm7Ik1Ulswyp3KeUL2xnQj8i0E7DdB6lOrh29o7LgyuutwcOHi4CGapBIOR1fYURu+yROSTHQ2C2aDK7A==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
